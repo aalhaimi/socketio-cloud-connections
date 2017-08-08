@@ -3,3 +3,7 @@
 Basic implementation of Socket.io server hosted on Heroku with 2 client connections: 
 1- from the same heroku app
 2- from another localhost app
+
+
+## installation: 
+```cd``` to the folder, ```npm install```, and run the apps.
